@@ -4,7 +4,7 @@
     "sticker_packs" : [
     {
         "identifier": "cuppyID",
-        "name": "Cuppy",
+        "name": "master",
         "publisher": "Jane Doe",
         "tray_image_file" : "tray_Cuppy.png",
         "publisher_website" : "",
@@ -12,7 +12,7 @@
         "license_agreement_website" : "",
         "stickers": [
         {
-            "image_file": "01_Cuppy_smile.png",
+            "image_file": "master1.png",
             "emojis": ["☕","🙂"]
         },
         {
